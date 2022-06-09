@@ -54,7 +54,7 @@ public class OperatorsApp {
         System.out.println(worthRepairingText);
 
         price += 1000;
-        System.out.println("Price increased: €" + price);
+        System.out.println("Price increased: + price);
         price -= 2000;
         System.out.println("Price decreased: €" + price);
         price *= 2;
